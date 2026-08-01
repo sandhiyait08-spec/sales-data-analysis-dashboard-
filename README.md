@@ -1,5 +1,4 @@
-# sales-data-analysis-dashboard-
-Developed a Sales Data Analysis Dashboard to track sales, understand trends, and help make better business decisions.
+
 # 📊 Sales Data Analysis Dashboard
 
 📖 Description

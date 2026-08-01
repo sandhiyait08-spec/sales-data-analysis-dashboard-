@@ -110,7 +110,7 @@ Include screenshots of:
 
 **Role:** Data Analyst(aspiring)
 
-**GitHub:** https://github.com/yourusername
+**GitHub:** https://github.com/sandhiyait08-spec
 
 **LinkedIn:** https://linkedin.com/in/yourprofile
 
